@@ -2,8 +2,6 @@
 
 A clean and modern web-based calculator built with HTML, CSS, and JavaScript.
 
-![Calculator Preview](https://via.placeholder.com/400x500/333/fff?text=Calculator+Preview)
-
 ## Features
 
 - **Basic Operations**: Addition, subtraction, multiplication, and division
